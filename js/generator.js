@@ -17,6 +17,7 @@ var other = ['Přece  nám nebudou říkat jestli máme mít právo šaria , piv
   ' Stejně tak jako USA  nebyly nikdy na měsícy ,tak media mlčí o te velké pravdě o imigrantech ',
   ' je to všechno naplánované kvůli new world order(NWO).',
   ' Otevřete už konecně oči, vy tupé ovce! !',
+  ' SDÍLEJTE NEŽ TO SMAŽOU!!!!',             
   ' postavil bych plot na hranicích a bylo by to vyřešené ',
   ' musime chránit naše hranice a hodnoty ',
   ' jinak já jsem hrdý na naše hodnoty, co si dokázal ty ty havlomrde jeden,kurvo ?  ',
@@ -42,6 +43,7 @@ var other = ['Přece  nám nebudou říkat jestli máme mít právo šaria , piv
   ' a co má jako znamenat ten černoch na letáku???',
   ' a běžte s multi-kulti do prdele!!',
   ' čechy čechům!!!!',
+  ' A média o tom mlčí!!!!',             
   ' říkal to i známý co dělá u Policie CR ',
   ' Něco se děje ,dneska u nas byl velky chemtrails, nahoda? ',
   ' Odstraňte ty multikulty pičoviny!',
@@ -108,6 +110,7 @@ var badGuysSentencesSingular = [
   // https://www.novinky.cz/diskuse?id=486570&articleId=/domaci/438651-sprosty-vrah-slusnemu-cloveku-je-nevolno-reagoval-kalousek-na-milost-pro-kajinka.html&sectionId=8&page=2
   ' Jak múže mít tahle žumpa pomluv a nadávak {0} takový prostor k šíření svých bludů ? Kdo ho ještě podporuje ?Už aby byly volby !',
   ' On ten {0} ma asi v hlave uplne nasr*ano neboco!',
+  ' Co to je za nulu ten {0}?',
   ' {0} by asi potřeboval abyho ti negři imigrantský vzali pěkně zezadu abyje přestal hájit.....'
 ];
 
@@ -128,16 +131,16 @@ var badGuysSentencesPlural = [
 ];
 
 var goodGuys = ['pan Babiš', 'Babiš', 'pan mluvčí Ovčáček', 'Ovčáček', 'Zeman', 'pan prezident', 'Tomio', 'Okamura', 'pan Konvička',
-   'pan president Putin', 'Putin', 'Ortel', 'prezident Trump', 'Adam B. Bartoš', 'SPD', 'KSČM', 'Míla Rozner', 'Rozner'];
+   'pan president Putin', 'Putin', 'Ortel', 'prezident Trump', 'Adam B. Bartoš', 'SPD', 'KSČM', 'Míla Rozner', 'Rozner', 'Václav Klaus mladší', 'Soukup'];
 
 var badGuysGuys = ['Sobotka', 'vlastizrádce Sobotka', 'Kalous', 'Diensbier', 'Horáček', 'Obama', 'zmrd Kalousek',
-   'Moravec', 'Drahoš', 'Ferri', 'tunelář Bakala'];
+   'Moravec', 'Drahoš', 'Ferri', 'tunelář Bakala', 'Soros', 'Soroš', 'feťák Bartoš'];
 
-var otherBadGuys = ['Sobotka', 'vlastizrádce Sobotka', 'sluničkári', 'prohavlovská pakaž', 'kolaboranti', 'muslimáci',
+var otherBadGuys = ['Sobotka', 'vlastizrádce Sobotka', 'sluničkári', 'piráti' 'prohavlovská pakaž', 'kolaboranti', 'muslimáci',
  'Kalousek', 'fašisti na ukrajine', 'havloidi', 'birokrati z EU', 'Diensbier', 'Horáček', 'Obama', 'eurofanatici',
  'makrela', 'zmrd Kalousek', 'Merkleova', 'Merkelova', 'nadnárodni elity', 'pražská kavárna', 'novinářská žumpa', 'eurohujeři',
- 'iluminati', 'USA ambasáda', 'CIA', 'korporace', 'diktát z EU', 'islám', 'cigani', 'cikáni', 'romove', 'Moravec',
- 'vítači', 'zelený mozky', 'Fery', 'Ferri', 'dyktat', 'Bakala', 'tunelář Bakala', 'česká televize'];
+ 'iluminati', 'USA ambasáda', 'CIA', 'korporace', 'diktát z EU', 'islám', 'cigani', 'cikáni', 'lepšolidi', 'romove', 'Moravec',
+ 'vítači', 'banderovci', 'zelený mozky', 'Fery', 'Ferri', 'dyktat', 'Bakala', 'tunelář Bakala', 'česká televize'];
 
 var otherThingsWorthHating = ['integrací', 'eurofederalizací', 'diskriminací', 'emancipací', 'eurofašizací', 'inkluzí', 'globalizací'];
 var otherThingsWorthHatingSentences = [
